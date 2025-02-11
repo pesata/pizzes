@@ -28,7 +28,7 @@
             }
 
             echo "<br>";
-            echo "Autor: pesata 2.1" . "<br>";
+            echo "Autor: pesata 2.3" . "<br>";
         ?>
          <a href="pizza.html">Retorna al formulari de selecció d’ingredients</a>
     </body>
