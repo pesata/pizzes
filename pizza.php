@@ -24,11 +24,12 @@
                     }
                 }
                 echo "El preu és $pvp € (IVA inclòs)<br>";
-                //exit(0);
+                //exit(0)
             }
 
             echo "<br>";
             echo "Autor: pesata" . "<br>";
         ?>
+         <a href="pizza.html">Retorna al formulari de selecció d’ingredients</a>
     </body>
 </html>
