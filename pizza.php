@@ -30,6 +30,6 @@
             echo "<br>";
             echo "Autor: pesata 2.3" . "<br>";
         ?>
-         <a href="pizza.html">Retorna al formulari de selecció d’ingredients</a>
+         <a href="pizza.html">Retorna Penda al formulari de selecció d’ingredients</a>
     </body>
 </html>
